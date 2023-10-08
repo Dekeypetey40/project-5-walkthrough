@@ -1,1 +1,1 @@
-web: gunicorn project-5-walkthrough.wsgi:application
+web: gunicorn boutique-walkthrough-69.wsgi:application
