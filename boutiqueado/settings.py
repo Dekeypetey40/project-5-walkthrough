@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-!@!o380mrk=7bp%56p14ha3%h!!%z6wl2o5^e)v2hd(=c)4f35
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = config('DEBUG', cast=bool)
 
-ALLOWED_HOSTS = ['boutique-walkthrough-69.herokuapp.com', 'http://127.0.0.1:8000/']
+ALLOWED_HOSTS = ['boutique-walkthrough-69-8562d6bd4d60.herokuapp.com/', '127.0.0.1:8000/']
 
 
 # Application definition
